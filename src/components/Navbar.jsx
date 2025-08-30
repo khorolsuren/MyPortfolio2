@@ -41,7 +41,7 @@ export const Navbar = () => {
       >
         <div className="container flex items-center justify-between">
           {/* Logo */}
-          <a className="text-xl font-bold text-slate-800 flex items-center" href="/">
+          <a className="text-xl font-bold text-slate-800 flex items-center" href="/MyPortfolio2">
             <span className="relative z-10">
               <span className="text-glow text-foreground">Khorolsuren</span> Portfolio
             </span>
