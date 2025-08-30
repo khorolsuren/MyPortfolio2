@@ -34,7 +34,7 @@ export function ThemeToggle() {
     <button
       onClick={toggleTheme}
       className={cn(
-        "fixed max-sm:hidden top-5 right-5 z-50 p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-800 transition-all duration-300",
+        "fixed top-12 right-5 z-50 p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-800 transition-all duration-300",
         "focus:outline-hidden"
       )}
     >
@@ -45,4 +45,4 @@ export function ThemeToggle() {
       )}
     </button>
   );
-}
+};
