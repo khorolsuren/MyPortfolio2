@@ -44,12 +44,15 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
               <a
-                href="/Khorolsuren_Resume.pdf"
-                download="Khorolsuren_Resume.pdf"
+                href="/MyPortfolio2/Khorolsuren_Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="px-6 py-2 rounded-full border border-indigo-400 text-indigo-400 hover:bg-indigo-400/10 transition-colors duration-300"
               >
                 Download CV
               </a>
+
+
             </div>
           </div>
 
